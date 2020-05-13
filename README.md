@@ -1,5 +1,12 @@
 # keycloak-theme
 
+## Screenshots
+### Desktop
+![Screenshot - desktop](screenshots/desktop.png)
+
+### Mobile
+![Screenshot - mobile](screenshots/mobile.png)
+
 ## Setup
 If using keycloak with docker you can add the theme by mounting the git repo to `/opt/jboss/keycloak/themes/own-theme`
 
@@ -15,3 +22,4 @@ Mount you own `standalone-ha.xml` to `/opt/jboss/keycloak/standalone/configurati
   ...
 </theme>
 ```
+
